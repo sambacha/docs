@@ -1,5 +1,6 @@
 # Table of contents
 
+
 - [Introduction to Yearn](README.md)
 - [FAQ](faq.md)
 - [DeFi Glossary](defi-glossary.md)
