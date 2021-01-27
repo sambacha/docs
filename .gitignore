@@ -1,1 +1,15 @@
+.DS_Store
 node_modules
+
+*.tar.gz
+*.tar
+*.zip
+
+.vscode
+.idea
+site/
+env/
+*.out
+node_modules/
+.circleci/process.yml
+*.log
